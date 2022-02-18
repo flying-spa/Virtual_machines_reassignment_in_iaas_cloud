@@ -1,0 +1,13 @@
+val_n=-1
+val_m=-1
+val_m1=-1
+flag_astar=-1
+flag_dmh=-1
+flag_dmh=-1
+time_astar=0.00
+time_dmh=0.00
+time_idmh=0.00
+moves_astar=-1
+moves_dmh=-1
+moves_idmh=-1
+space_astar=-1
